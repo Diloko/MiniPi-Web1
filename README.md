@@ -32,4 +32,4 @@ Versão 0.1 pois o site ainda está bem simplificado de acordo com as skills des
 <br>
 Link do site
 
-
+https://diloko.github.io/MiniPi-Web1/
